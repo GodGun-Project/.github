@@ -1,5 +1,10 @@
 ## Hi there 👋
 There's nothing here. :(
+<details>
+<summary>Show</summary>
+nothing<br>
+no text
+</details>
 <!--
 
 **Here are some ideas to get you started:**
